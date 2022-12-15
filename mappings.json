@@ -1,0 +1,772 @@
+[
+  {
+    "r": "b",
+    "f": "analysing-flash-loan-attack-on-nimbus-platform",
+    "t": "nimbus-platform-flash-loan-attack"
+  },
+  {
+    "r": "b",
+    "f": "analysing-elastic-swap-hack",
+    "t": "analysing-elastic-swap-hack"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-dec-12",
+    "t": "weekly-report-dec-12"
+  },
+  {
+    "r": "b",
+    "f": "role-of-cover-protocols-in-mitigating-risks",
+    "t": "role-of-cover-protocols-in-mitigating-risk"
+  },
+  {
+    "r": "p",
+    "f": "announcing-fuji-testnet-winners",
+    "t": "announcing-fuji-testnet-winners"
+  },
+  {
+    "r": "b",
+    "f": "roast-football-suffers-attack-funds-lost-through-exploited-reward-system",
+    "t": "roast-football-lost-funds-through-exploited-reward-system"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-dec-05",
+    "t": "weekly-report-dec-05"
+  },
+  {
+    "r": "b",
+    "f": "report-know-about-the-helio-protocol-hack",
+    "t": "report-know-about-the-helio-protocol-hack"
+  },
+  {
+    "r": "b",
+    "f": "taking-a-closer-look-at-ankr-hack",
+    "t": "taking-a-closer-look-at-ankr-hack"
+  },
+  {
+    "r": "b",
+    "f": "monthly-review-november-2022",
+    "t": "monthly-review-november-2022"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-nov-28",
+    "t": "weekly-report-nov-28"
+  },
+  {
+    "r": "b",
+    "f": "lets-cover-the-main-defi-security-risks",
+    "t": "lets-cover-the-main-defi-security-risks"
+  },
+  {
+    "r": "b",
+    "f": "taking-a-closer-look-at-the-numbers-protocol-hack",
+    "t": "taking-a-closer-look-at-the-numbers-protocol-hack"
+  },
+  {
+    "r": "p",
+    "f": "binance-decentralized-cover-pool-launch-announcement",
+    "t": "binance-decentralized-cover-pool-launch-announcement"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-nov-21",
+    "t": "weekly-report-nov-21"
+  },
+  {
+    "r": "b",
+    "f": "deep-dive-into-prime-dapps-cover-projects-in-neptune-mutuals-marketplace",
+    "t": "deep-dive-into-prime-dapps-cover-projects"
+  },
+  {
+    "r": "b",
+    "f": "decoding-sheep-farm-smart-contract-hack",
+    "t": "decoding-sheep-farm-smart-contract-hack"
+  },
+  {
+    "r": "b",
+    "f": "decoding-ftx-hack",
+    "t": "taking-a-closer-look-at-the-ftx-hack"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-nov-14",
+    "t": "weekly-report-nov-14"
+  },
+  {
+    "r": "b",
+    "f": "decoding-brahtopg-smart-contract-vulnerability",
+    "t": "decoding-brahtopg-smart-contract-vulnerability"
+  },
+  {
+    "r": "p",
+    "f": "ethereum-defi-cover-protocol-launch-announcement",
+    "t": "ethereum-defi-cover-protocol-launch-announcement"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-nov-07",
+    "t": "weekly-report-nov-07"
+  },
+  {
+    "r": "b",
+    "f": "decoding-skyward-finance-smart-contract-vulnerability",
+    "t": "decoding-skyward-finance-smart-contract-vulnerability"
+  },
+  {
+    "r": "p",
+    "f": "neptune-mutual-parametric-marketplace-going-live-on-ethereum-mainnet-8th-november",
+    "t": "neptune-mutual-parametric-marketplace-going-live-on-ethereum"
+  },
+  {
+    "r": "b",
+    "f": "monthly-review-october-2022",
+    "t": "monthly-review-october-2022"
+  },
+  {
+    "r": "b",
+    "f": "decoding-team-finance-contract-vulnerability",
+    "t": "decoding-team-finance-contract-vulnerability"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-oct-31",
+    "t": "weekly-report-oct-31"
+  },
+  {
+    "r": "b",
+    "f": "decoding-melody-vulnerability",
+    "t": "decoding-melody-vulnerability"
+  },
+  {
+    "r": "b",
+    "f": "how-to-protect-your-crypto-assets",
+    "t": "how-to-protect-your-crypto-assets"
+  },
+  {
+    "r": "b",
+    "f": "decoding-ulme-token-flash-loan-attack",
+    "t": "decoding-ulme-token-flash-loan-attack"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-oct-24",
+    "t": "weekly-report-oct-24"
+  },
+  {
+    "r": "b",
+    "f": "web-3-0-how-is-it-different-and-why-does-it-matter",
+    "t": "web-3.0-how-is-it-different-and-why-does-it-matter"
+  },
+  {
+    "r": "b",
+    "f": "decoding-bitkeeps-smart-contract-vulnerability",
+    "t": "decoding-bitkeeps-smart-contract-vulnerability"
+  },
+  {
+    "r": "b",
+    "f": "decoding-moola-markets-price-manipulation-attack",
+    "t": "decoding-moola-markets-price-manipulation-attack"
+  },
+  {
+    "r": "b",
+    "f": "decoding-plantworlds-vulnerability",
+    "t": "plantworlds-flash-loan-attack-analysis-report"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-oct-17",
+    "t": "weekly-report-oct-17"
+  },
+  {
+    "r": "b",
+    "f": "decoding-ftxs-gas-limit-vulnerability",
+    "t": "decoding-ftxs-gas-limit-vulnerability"
+  },
+  {
+    "r": "b",
+    "f": "the-beginners-guide-to-testnets",
+    "t": "the-beginners-guide-to-testnets"
+  },
+  {
+    "r": "b",
+    "f": "decoding-rabbys-smart-contract-vulnerability",
+    "t": "decoding-rabbys-smart-contract-vulnerability"
+  },
+  {
+    "r": "b",
+    "f": "decoding-stax-finances-vulnerability",
+    "t": "decoding-stax-finances-vulnerability"
+  },
+  {
+    "r": "b",
+    "f": "decoding-mangos-vulnerability",
+    "t": "decoding-mangos-vulnerability"
+  },
+  {
+    "r": "b",
+    "f": "decoding-sovryns-price-manipulation-vulnerability",
+    "t": "decoding-sovryns-price-manipulation-vulnerability"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-oct-10",
+    "t": "weekly-report-oct-10"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutuals-gamified-testnet-now-live-on-avalanche",
+    "t": "neptune-mutuals-gamified-testnet-now-live-on-avalanche"
+  },
+  {
+    "r": "b",
+    "f": "decoding-bsc-token-hubs-contract-vulnerability",
+    "t": "decoding-bsc-token-hubs-contract-vulnerability"
+  },
+  {
+    "r": "b",
+    "f": "decoding-transit-finances-contract-vulnerability",
+    "t": "decoding-transit-finances-contract-vulnerability"
+  },
+  {
+    "r": "p",
+    "f": "neptune-mutual-launch-gamified-testnet-on-avalanche-fuji-testnet",
+    "t": "neptune-mutual-launch-gamified-testnet-on-avalanche-fuji"
+  },
+  {
+    "r": "b",
+    "f": "monthly-review-september-2022",
+    "t": "monthly-review-september-2022"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-oct-03",
+    "t": "weekly-report-oct-03"
+  },
+  {
+    "r": "b",
+    "f": "the-neptune-mutual-ecosystem",
+    "t": "the-neptune-mutual-ecosystem"
+  },
+  {
+    "r": "b",
+    "f": "decoding-dydxs-supply-chain-vulnerability",
+    "t": "decoding-dydxs-supply-chain-vulnerability"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-sep-26",
+    "t": "weekly-report-sep-26"
+  },
+  {
+    "r": "b",
+    "f": "unpacking-the-basics-of-the-metaverse",
+    "t": "unpacking-the-basics-of-the-metaverse"
+  },
+  {
+    "r": "b",
+    "f": "decoding-wintermutes-hot-wallet-compromise",
+    "t": "decoding-wintermutes-hot-wallet-compromise"
+  },
+  {
+    "r": "b",
+    "f": "decoding-omni-bridges-call-data-replay-exploit",
+    "t": "decoding-omni-bridges-call-data-replay-exploit"
+  },
+  {
+    "r": "b",
+    "f": "decoding-gmxs-565-000-price-manipulation-exploit",
+    "t": "decoding-gmxs-price-manipulation-exploit"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-sep-19",
+    "t": "weekly-report-sep-19"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-sep-12",
+    "t": "weekly-report-sep-12"
+  },
+  {
+    "r": "b",
+    "f": "how-are-discretionary-and-parametric-covers-different",
+    "t": "how-are-discretionary-and-parametric-covers-different"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-sep-05",
+    "t": "weekly-report-sep-05"
+  },
+  {
+    "r": "b",
+    "f": "how-to-safeguard-against-malicious-websites",
+    "t": "how-to-safeguard-against-malicious-websites"
+  },
+  {
+    "r": "b",
+    "f": "monthly-review-august-2022",
+    "t": "monthly-review-august-2022"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-aug-29",
+    "t": "weekly-report-aug-29"
+  },
+  {
+    "r": "b",
+    "f": "why-onchain-cover-protocols-should-cooperate-not-compete",
+    "t": "why-onchain-cover-protocols-should-cooperate-not-compete"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-aug-22",
+    "t": "weekly-report-aug-22"
+  },
+  {
+    "r": "b",
+    "f": "what-you-need-to-know-about-smart-contract-hack-protection",
+    "t": "what-you-need-to-know-about-smart-contract-security"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-aug-15",
+    "t": "weekly-report-aug-15"
+  },
+  {
+    "r": "b",
+    "f": "first-audit-report",
+    "t": "first-audit-report"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report-aug-8",
+    "t": "weekly-report-aug-8"
+  },
+  {
+    "r": "b",
+    "f": "what-is-defi-insurance",
+    "t": "what-is-defi-insurance-neptune-mutual"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-monthly-review-july-2022",
+    "t": "monthly-review-july-2022"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-aug-1",
+    "t": "weekly-report-aug-1"
+  },
+  {
+    "r": "b",
+    "f": "understanding-underwriting-capital-not-all-pools-are-alike-know-a-pool-before-you-jump-in",
+    "t": "understanding-underwriting-capital-not-all-pools-are-alike"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual",
+    "t": "weekly-report-jul-25"
+  },
+  {
+    "r": "b",
+    "f": "diversified-cover-pools-increase-the-options-available-to-liquidity-providers-and-cover-purchasers-alike-is-this-the-route-to-scaling-adoption-of-digital-asset-cover-protection",
+    "t": "enhance-liquidity-via-diversified-cover-pools"
+  },
+  {
+    "r": "p",
+    "f": "npm-rising-star-third-month-winner-announcement",
+    "t": "npm-rising-star-third-month-winner-announcement"
+  },
+  {
+    "r": "b",
+    "f": "weekly-report",
+    "t": "weekly-report-jul-18"
+  },
+  {
+    "r": "b",
+    "f": "report-and-earn-how-you-can-earn-rewards-by-reporting-incidents",
+    "t": "how-you-can-earn-rewards-by-reporting-incidents"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-monthly-review-june-2022",
+    "t": "monthly-review-june-2022"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-jul-4",
+    "t": "weekly-report-jul-4"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-jun-27",
+    "t": "weekly-report-jun-27"
+  },
+  {
+    "r": "b",
+    "f": "confessions-of-a-scammer-how-to-avoid-crypto-scams-and-exploits",
+    "t": "confessions-of-a-scammer-how-to-avoid-crypto-scams"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-jun-20",
+    "t": "weekly-report-jun-20"
+  },
+  {
+    "r": "p",
+    "f": "npm-rising-star-second-month-winner-announcement",
+    "t": "npm-rising-star-second-month-winner-announcement"
+  },
+  {
+    "r": "b",
+    "f": "bootstrapping-cover-pool-liquidity-how-do-we-encourage-our-community-to-fund-our-cover-pool",
+    "t": "bootstrapping-decentralized-cover-pool-liquidity"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-jun-13",
+    "t": "weekly-report-jun-13"
+  },
+  {
+    "r": "b",
+    "f": "be-aware-of-the-bear-crypto-crash-heightens-awareness-of-risks-hacks-but-is-this-enough-to-drive-mainstream-adoption-of-digital-asset-protection",
+    "t": "crypto-crash-heightens-awareness-of-risks-hacks"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-jun-6",
+    "t": "weekly-report-jun-6"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-monthly-review-may-2022",
+    "t": "monthly-review-may-2022"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-may-30",
+    "t": "weekly-report-may-30"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-x-avstar-ama-recap",
+    "t": "neptune-mutual-x-avstar-ama-recap"
+  },
+  {
+    "r": "b",
+    "f": "capital-requirement-how-to-measure-it-and-why-it-matters-a-lot",
+    "t": "capital-requirement-how-to-measure-it-and-why-it-matters-a-lot"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-may-23",
+    "t": "weekly-report-may-23"
+  },
+  {
+    "r": "b",
+    "f": "dont-be-a-salmon-in-a-bear-market",
+    "t": "dont-be-a-salmon-in-a-bear-market"
+  },
+  {
+    "r": "b",
+    "f": "terra-luna-crisis-explained",
+    "t": "terra-luna-crisis-explained"
+  },
+  {
+    "r": "p",
+    "f": "neptune-mutual-first-community-ama-recap",
+    "t": "neptune-mutual-first-community-ama-recap"
+  },
+  {
+    "r": "p",
+    "f": "npm-rising-star-first-month-winner-announcement",
+    "t": "npm-rising-star-first-month-winner-announcement"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-may-16",
+    "t": "weekly-report-may-16"
+  },
+  {
+    "r": "p",
+    "f": "neptune-mutual-protocol-raises-5-3m-in-a-private-funding-round-after-successful-testnet-launch-2",
+    "t": "neptune-mutual-protocol-raises-5.3m-in-a-private-funding-round"
+  },
+  {
+    "r": "b",
+    "f": "ce-shi-wang-huo-jiang-zhe-jie-guo-gong-bu",
+    "t": "ce-shi-wang-huo-jiang-zhe-jie-guo-gong-bu"
+  },
+  {
+    "r": "p",
+    "f": "announcing-the-testnet-winners",
+    "t": "announcing-the-testnet-winners"
+  },
+  {
+    "r": "p",
+    "f": "neptune-mutual-x-ico-pantera-ama-recap-hangugeo-beonyeog",
+    "t": "neptune-mutual-x-ico-pantera-ama-recap-hangugeo-beonyeog"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-may-9",
+    "t": "weekly-report-may-9"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-monthly-review-april-2022",
+    "t": "monthly-review-april-2022"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-may-2",
+    "t": "weekly-report-may-2"
+  },
+  {
+    "r": "b",
+    "f": "privacy-coins-arent-made-to-protect-digital-assets",
+    "t": "privacy-coins-arent-made-to-protect-digital-assets"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-apr-25",
+    "t": "weekly-report-apr-25"
+  },
+  {
+    "r": "b",
+    "f": "is-your-web-3-project-protecting-its-community",
+    "t": "is-your-web-3-project-protecting-its-community"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-testnet-review-coded-better-than-ever",
+    "t": "neptune-mutual-testnet-review-coded-better-than-ever"
+  },
+  {
+    "r": "p",
+    "f": "announcing-npm-rising-stars",
+    "t": "announcing-npm-rising-stars"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-apr-18",
+    "t": "weekly-report-apr-18"
+  },
+  {
+    "r": "b",
+    "f": "protocol-parametric-protection-covering-the-basics",
+    "t": "protocol-parametric-protection-covering-the-basics"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-apr-11",
+    "t": "weekly-report-apr-11"
+  },
+  {
+    "r": "b",
+    "f": "cyber-criminal-whales-the-rise-of-crypto-syndicates",
+    "t": "cyber-criminal-whales-the-rise-of-crypto-syndicates"
+  },
+  {
+    "r": "b",
+    "f": "how-bonds-work-on-neptune-mutual",
+    "t": "how-bonds-work-on-neptune-mutual"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-apr-4",
+    "t": "weekly-report-apr-4"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-monthly-report-march-2022",
+    "t": "monthly-review-march-2022"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-bond-pool-feature-unlocked",
+    "t": "neptune-mutual-bond-pool-feature-unlocked"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-mar-28",
+    "t": "weekly-report-mar-28"
+  },
+  {
+    "r": "b",
+    "f": "npm-testnet-features-unlocked-staking-and-pod-staking",
+    "t": "npm-testnet-features-unlocked-staking-and-pod-staking"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-mar-21",
+    "t": "weekly-report-mar-21"
+  },
+  {
+    "r": "b",
+    "f": "cover-creators-how-cover-protocols-help-build-confident-investor-communities",
+    "t": "how-cover-protocols-help-build-confident-investor-communities"
+  },
+  {
+    "r": "p",
+    "f": "neptune-mutual-launching-on-the-polygon-testnet",
+    "t": "neptune-mutual-launching-on-the-polygon-testnet"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-mar-14",
+    "t": "weekly-report-mar-14"
+  },
+  {
+    "r": "p",
+    "f": "partnership-announcement-between-xt-com-and-neptune-mutual",
+    "t": "partnership-announcement-between-xt.com-and-neptune-mutual"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-testnet-is-live",
+    "t": "neptune-mutual-testnet-is-live"
+  },
+  {
+    "r": "p",
+    "f": "unlock-the-gold-vault-neptune-mutual-testnet-launch",
+    "t": "unlock-the-gold-vault-neptune-mutual-testnet-launch"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-mar-7",
+    "t": "weekly-report-mar-7"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-monthly-report-february-2022",
+    "t": "monthly-review-february-2022"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-feb-28",
+    "t": "weekly-report-feb-28"
+  },
+  {
+    "r": "b",
+    "f": "defi-moving-forward-digital-asset-security",
+    "t": "defi-moving-forward-digital-asset-security"
+  },
+  {
+    "r": "b",
+    "f": "parametric-cover-covering-the-basics",
+    "t": "parametric-cover-covering-the-basics"
+  },
+  {
+    "r": "b",
+    "f": "defi-crime-data-review-and-tips-on-digital-asset-security",
+    "t": "defi-crime-data-review-and-tips-on-digital-asset-security"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-feb-21",
+    "t": "weekly-report-feb-21"
+  },
+  {
+    "r": "b",
+    "f": "are-stablecoins-decentralised",
+    "t": "are-stablecoins-decentralised"
+  },
+  {
+    "r": "b",
+    "f": "financial-protection-of-digital-assets-covering-the-basics",
+    "t": "financial-protection-of-digital-assets-covering-the-basics"
+  },
+  {
+    "r": "b",
+    "f": "creating-value-out-of-collaterals-how-do-stablecoins-remain-stable",
+    "t": "how-do-stablecoins-remain-stable"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-feb-14",
+    "t": "weekly-report-feb-14"
+  },
+  {
+    "r": "b",
+    "f": "how-defi-fits-in-with-everything-crypto",
+    "t": "how-defi-fits-in-with-everything-crypto"
+  },
+  {
+    "r": "b",
+    "f": "defi-ning-defi-a-beginners-intro-to-decentralised-finance",
+    "t": "defi-ning-defi-a-beginners-intro-to-decentralised-finance"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-feb-6",
+    "t": "weekly-report-feb-7"
+  },
+  {
+    "r": "b",
+    "f": "a-future-with-stablecoins-how-to-use-stablecoins-to-grow-in-the-crypto-market",
+    "t": "a-future-with-stablecoins"
+  },
+  {
+    "r": "p",
+    "f": "social-media-competition-3-winner-announcement",
+    "t": "social-media-competition-3-winner-announcement"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-jan-31",
+    "t": "weekly-report-feb-1"
+  },
+  {
+    "r": "b",
+    "f": "defi-vs-cefi-whats-the-difference",
+    "t": "defi-vs-cefi-whats-the-difference"
+  },
+  {
+    "r": "b",
+    "f": "how-will-defi-change-the-financial-game-in-the-long-run",
+    "t": "how-will-defi-change-the-financial-game-in-the-long-run"
+  },
+  {
+    "r": "b",
+    "f": "weekly",
+    "t": "weekly-report-jan-25"
+  },
+  {
+    "r": "b",
+    "f": "neptune-mutual-weekly-report-jan-17",
+    "t": "weekly-report-jan-18"
+  },
+  {
+    "r": "b",
+    "f": "nought-to-neptune-in-5-months",
+    "t": "nought-to-neptune-in-5-months"
+  },
+  {
+    "r": "p",
+    "f": "neptune-mutual-raises-strategic-round-led-by-animoca-brands-to-build-cover-protocol-for-metaverse-assets-2",
+    "t": "neptune-mutual-raises-strategic-round-led-by-animoca-brands"
+  },
+  {
+    "r": "b",
+    "f": "identity-theft-in-the-metaverse-what-if-cybercriminals-hack-your-avatar",
+    "t": "identity-theft-in-metaverse.-what-if-your-avatar-is-hacked"
+  },
+  {
+    "r": "p",
+    "f": "neptune-mutual-raises-seed-round-led-by-fenbushi-capital-to-build-decentralized-cover-protocol-2",
+    "t": "neptune-mutual-raises-seed-round-led-by-fenbushi-capital"
+  },
+  {
+    "r": "b",
+    "f": "june-2021-development-updates",
+    "t": "june-2021-development-updates"
+  },
+  {
+    "r": "b",
+    "f": "best-binance-smart-chain-projects-2021",
+    "t": "best-binance-smart-chain-projects-2021"
+  }
+]
