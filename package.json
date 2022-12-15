@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "nodemon -r dotenv/config --experimental-specifier-resolution=node --ignore './.ignored/' . || true",
-    "start": "node"
+    "start": "node server.js"
   },
   "volta": {
     "node": "16.13.1",
