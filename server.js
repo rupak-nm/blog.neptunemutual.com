@@ -3,6 +3,6 @@ const { handler } = require('./handler')
 
 const server = http.createServer(handler)
 
-server.listen(process.env.PORT || 8888, () => {
+server.listen(process.env.PORT || 8080, () => {
   console.log('Boot successful')
 })
