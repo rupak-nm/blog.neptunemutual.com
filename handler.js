@@ -8,12 +8,10 @@ const handler = async (req, res) => {
     const valid = validate(req)
 
     if (!valid) {
-      response.denied(res)
-      return
+      return response.denied(res)
     }
 
     const { url } = req
-
     const found = mapping.find(url)
 
     if (!found) {
@@ -23,9 +21,8 @@ const handler = async (req, res) => {
     const location = locate(found)
 
     if (location) {
-      response.redirect(res, location)
       console.log('%s --> %s', req.url, location)
-      return
+      return response.redirect(res, location)
     }
   } catch (error) {
     console.error(error)
