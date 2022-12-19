@@ -1,7 +1,8 @@
-const { locate } = require('./redirect')
+
 const response = require('./response')
-const mapping = require('./mapping')
 const { validate } = require('./validation')
+const resolvers = require('./resolvers')
+const { getPathname } = require('./util')
 
 const handler = async (req, res) => {
   try {
@@ -11,19 +12,15 @@ const handler = async (req, res) => {
       return response.denied(res)
     }
 
-    const { url } = req
-    const found = mapping.find(url)
+    const path = getPathname(req)
 
-    if (!found) {
+    const resolved = resolvers.resolve(path)
+
+    if (!resolved) {
       return response.notFound(res)
     }
 
-    const location = locate(found)
-
-    if (location) {
-      console.log('%s --> %s', req.url, location)
-      return response.redirect(res, location)
-    }
+    return response.redirect(res, resolved)
   } catch (error) {
     console.error(error)
   }
